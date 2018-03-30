@@ -1,0 +1,117 @@
+  0       probe       regfile/reg0          0
+  0       probe       regfile/reg1          0
+  0       probe       regfile/reg2          0
+  0       probe       regfile/reg3          0
+  0       probe       regfile/reg4          0
+  0       probe       regfile/reg5          0
+  0       probe       regfile/reg6          0
+  0       probe       regfile/reg7          0
+
+  1re     probe       regfile/reg0          0
+  1re     probe       regfile/reg1          0
+  1re     probe       regfile/reg2          0
+  1re     probe       regfile/reg3          0
+  1re     probe       regfile/reg4          0
+  1re     probe       regfile/reg5          0
+  1re     probe       regfile/reg6          0
+  1re     probe       regfile/reg7          0
+
+  2re     probe       regfile/reg0          0
+  2re     probe       regfile/reg1          0
+  2re     probe       regfile/reg2          0
+  2re     probe       regfile/reg3          0
+  2re     probe       regfile/reg4          0
+  2re     probe       regfile/reg5          0
+  2re     probe       regfile/reg6          0
+  2re     probe       regfile/reg7          0
+
+  3re     probe       regfile/reg0          0
+  3re     probe       regfile/reg1          15
+  3re     probe       regfile/reg2          0
+  3re     probe       regfile/reg3          0
+  3re     probe       regfile/reg4          0
+  3re     probe       regfile/reg5          0
+  3re     probe       regfile/reg6          0
+  3re     probe       regfile/reg7          0
+
+  4re     probe       regfile/reg0          0
+  4re     probe       regfile/reg1          15
+  4re     probe       regfile/reg2          16
+  4re     probe       regfile/reg3          0
+  4re     probe       regfile/reg4          0
+  4re     probe       regfile/reg5          0
+  4re     probe       regfile/reg6          0
+  4re     probe       regfile/reg7          0
+
+  5re     probe       regfile/reg0          0
+  5re     probe       regfile/reg1          15
+  5re     probe       regfile/reg2          16
+  5re     probe       regfile/reg3          0
+  5re     probe       regfile/reg4          0
+  5re     probe       regfile/reg5          0
+  5re     probe       regfile/reg6          0
+  5re     probe       regfile/reg7          0
+
+  6re     probe       regfile/reg0          0
+  6re     probe       regfile/reg1          15
+  6re     probe       regfile/reg2          16
+  6re     probe       regfile/reg3          0
+  6re     probe       regfile/reg4          0
+  6re     probe       regfile/reg5          0
+  6re     probe       regfile/reg6          0
+  6re     probe       regfile/reg7          6
+
+  7re     probe       regfile/reg0          0
+  7re     probe       regfile/reg1          0
+  7re     probe       regfile/reg2          16
+  7re     probe       regfile/reg3          0
+  7re     probe       regfile/reg4          0
+  7re     probe       regfile/reg5          0
+  7re     probe       regfile/reg6          0
+  7re     probe       regfile/reg7          6
+
+  8re     probe       regfile/reg0          0
+  8re     probe       regfile/reg1          0
+  8re     probe       regfile/reg2          16
+  8re     probe       regfile/reg3          0
+  8re     probe       regfile/reg4          0
+  8re     probe       regfile/reg5          0
+  8re     probe       regfile/reg6          0
+  8re     probe       regfile/reg7          6
+
+  9re     probe       regfile/reg0          0
+  9re     probe       regfile/reg1          0
+  9re     probe       regfile/reg2          16
+  9re     probe       regfile/reg3          0
+  9re     probe       regfile/reg4          0
+  9re     probe       regfile/reg5          0
+  9re     probe       regfile/reg6          0
+  9re     probe       regfile/reg7          6
+
+  10re    probe       regfile/reg0          0
+  10re    probe       regfile/reg1          0
+  10re    probe       regfile/reg2          16
+  10re    probe       regfile/reg3          0
+  10re    probe       regfile/reg4          0
+  10re    probe       regfile/reg5          0
+  10re    probe       regfile/reg6          0
+  10re    probe       regfile/reg7          6
+
+  11re    probe       regfile/reg0          0
+  11re    probe       regfile/reg1          0
+  11re    probe       regfile/reg2          16
+  11re    probe       regfile/reg3          0
+  11re    probe       regfile/reg4          0
+  11re    probe       regfile/reg5          0
+  11re    probe       regfile/reg6          0
+  11re    probe       regfile/reg7          6
+
+  12re    probe       regfile/reg0          0
+  12re    probe       regfile/reg1          0
+  12re    probe       regfile/reg2          16
+  12re    probe       regfile/reg3          0
+  12re    probe       regfile/reg4          0
+  12re    probe       regfile/reg5          0
+  12re    probe       regfile/reg6          0
+  12re    probe       regfile/reg7          6
+
